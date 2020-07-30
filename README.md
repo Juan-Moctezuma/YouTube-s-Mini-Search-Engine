@@ -14,7 +14,7 @@ local web server.
 
 if you are on Mac, use terminal and type the previous command; but first 
 make sure you are in the correct directory (the folder containing your project).
-NOTE that you don't need to request port 9500, you may use (e.g. 8000).
+NOTE that you don't need to request port 9500, you may use (e.g.) 8000.
 
 ### Technologies
 
