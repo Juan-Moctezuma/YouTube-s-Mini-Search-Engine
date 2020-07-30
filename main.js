@@ -1,11 +1,11 @@
-// https://www.googleapis.com/youtube/v3/search?part=snippet&key=AIzaSyB4qx04WUmiEFouL5l3tqQxL07a8xIryEk
-// https://www.googleapis.com/youtube/v3/search?part=snippet&key=AIzaSyB4qx04WUmiEFouL5l3tqQxL07a8xIryEk&type=video&q=ajax
+// https://www.googleapis.com/youtube/v3/search?part=snippet&key=AIza...
+// https://www.googleapis.com/youtube/v3/search?part=snippet&key=AIza...&type=video&q=ajax
 // Note that q stands for query
 // "videoId" is what's needed to get video embedded
 // Note that $get.() extracts data from video-item.html
 
 function init() {
-    gapi.client.setApiKey("AIzaSyB4qx04WUmiEFouL5l3tqQxL07a8xIryEk");
+    gapi.client.setApiKey("AIza...");
     gapi.client.load("youtube", "v3", function() {
         console.log("Api is ready");
     });
